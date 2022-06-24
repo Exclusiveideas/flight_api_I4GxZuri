@@ -1,1 +1,3 @@
-exports.exampleModel = [];
+FlightModel = [];
+
+module.exports = FlightModel
